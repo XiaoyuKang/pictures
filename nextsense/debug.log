@@ -1,0 +1,26 @@
+[0307/092712:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0307/092714:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0307/092715:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0307/092715:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0307/092716:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+[0307/092717:INFO:CONSOLE(2)] "preload:", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (2)
+[0307/092717:INFO:CONSOLE(2)] "vip info get completed", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (2)
+[0307/092717:INFO:CONSOLE(2)] "[object Object]", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (2)
+[0307/092717:INFO:CONSOLE(6)] "ready", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (6)
+[0307/092717:INFO:CONSOLE(6)] "is login", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (6)
+[0307/092717:INFO:CONSOLE(6)] "vip info get completed", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (6)
+[0307/092717:INFO:CONSOLE(6)] "[object Object]", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (6)
+[0307/092718:INFO:CONSOLE(6)] "svip info get completed", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (6)
+[0307/092718:INFO:CONSOLE(6)] "[object Object]", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (6)
+[0307/092718:INFO:CONSOLE(6)] "fetch info completed", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (6)
+[0307/092718:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://film.qq.com/film_index_prevue/index.html?firstVid=n0025p09pf2' was loaded over HTTPS, but requested an insecure image 'http://livep.l.qq.com/livemsg?o=394&adtype=LD&soid=9DdOO6YBWp+wdQRNbQDKqqJDAXZN&r90=1&l=6&refluence=6&requestl=6&tagid=0&pf=out&si=747825418&ev=6.0.282.282&aver_flag=0&ip_filter=0&ufc_filter=0&backfunnel=401&use_axp=0&axpheader=1&use_txp=0&txpheader=1&st_id_t=1&flow_reuse=1&ping_data=dXBfdmVyc2lvbj1WNi4wLjI4Mi4yODI=&vid=n0025p09pf2&pf_ex=pc&live=0&aid_tpid=10&aid_tpid2=1001&aid_tpid3=10001&aid_dura=313&aid_vid_drm=0&aid_copyright=5&aid_cover=985izqo00487w9l&aid_subtype=1&aid_column=74641&aid_vip_type=2&url=https://film.qq.com/film_index_prevue/index.html?firstVid=n0025p09pf2&from=0&pf=in&v=3.5.42&dura=&coverid=&vptag=&oadid=6&lcount=1&t=0&pf_ex=pc&tpid=10&chid='. This content should also be served over HTTPS.", source: https://film.qq.com/film_index_prevue/index.html?firstVid=n0025p09pf2 (0)
+[0307/092718:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://film.qq.com/film_index_prevue/index.html?firstVid=n0025p09pf2' was loaded over HTTPS, but requested an insecure image 'http://livep.l.qq.com/livemsg?o=394&adtype=KB&soid=9DdOO6YBWp+wdQRNbQDKqqJDAXZN&r90=1&l=6&refluence=6&requestl=6&tagid=0&pf=out&si=747825418&ev=6.0.282.282&aver_flag=0&ip_filter=0&ufc_filter=0&backfunnel=401&use_axp=0&axpheader=1&use_txp=0&txpheader=1&st_id_t=1&flow_reuse=1&ping_data=dXBfdmVyc2lvbj1WNi4wLjI4Mi4yODI=&vid=n0025p09pf2&pf_ex=pc&live=0&aid_tpid=10&aid_tpid2=1001&aid_tpid3=10001&aid_dura=313&aid_vid_drm=0&aid_copyright=5&aid_cover=985izqo00487w9l&aid_subtype=1&aid_column=74641&aid_vip_type=2&url=https://film.qq.com/film_index_prevue/index.html?firstVid=n0025p09pf2&from=0&pf=in&v=3.5.42&dura=&coverid=&vptag=&oadid=6&lcount=1&t=0&pf_ex=pc&tpid=10&chid='. This content should also be served over HTTPS.", source: https://film.qq.com/film_index_prevue/index.html?firstVid=n0025p09pf2 (0)
+[0307/092720:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://film.qq.com/x/2016/' was loaded over HTTPS, but requested an insecure image 'http://127.0.0.1:11066/getversionjpg?hash=958336'. This content should also be served over HTTPS.", source: https://film.qq.com/x/2016/ (0)
+[0307/092721:INFO:CONSOLE(5)] "preload focus:", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (5)
+[0307/092721:INFO:CONSOLE(5)] "preload focus:", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (5)
+[0307/092721:INFO:CONSOLE(5)] "preload focus:", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (5)
+[0307/092721:INFO:CONSOLE(5)] "preload focus:", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (5)
+[0307/092721:INFO:CONSOLE(5)] "preload focus:", source: https://vm.gtimg.cn/tencentvideo/script/film/index/index_5e5186.min.js (5)
+[0307/092721:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0307/092721:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0307/092721:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
